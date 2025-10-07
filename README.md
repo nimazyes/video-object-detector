@@ -45,7 +45,7 @@ pip install ultralytics
 pip install pandas
 pip install seaborn
 
-## 4. Cara Menjalankan
+## 3. Cara Menjalankan
 
 - Pastikan semua pustaka sudah terinstal dengan benar.
 - Simpan file utama dengan nama yolo_webcam.py di dalam folder proyek.
